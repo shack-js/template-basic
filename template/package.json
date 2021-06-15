@@ -1,0 +1,13 @@
+{
+  "name": "<%= name %>",
+  "version": "1.0.0",
+  "description": "",
+  "main": "web/index.js",
+  "scripts": {
+    "dev": "shack dev"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
