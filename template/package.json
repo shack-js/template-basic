@@ -2,12 +2,15 @@
   "name": "<%= name %>",
   "version": "1.0.0",
   "description": "",
-  "main": "web/index.js",
+  "main": "web/index.mjs",
   "scripts": {
     "dev": "shack dev"
   },
   "type": "module",
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@shack-js/cli": "^1.0.0"
+  }
 }
