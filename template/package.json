@@ -4,7 +4,9 @@
   "description": "",
   "main": "web/index.mjs",
   "scripts": {
-    "dev": "shack dev"
+    "dev": "shack dev",
+    "build": "shack build",
+    "start": "shack start"
   },
   "type": "module",
   "keywords": [],
