@@ -1,3 +1,3 @@
-import { hello } from "../apis/hello.mjs"
+import { hello } from "../apis/hello.js"
   ;
 (async () => alert(await hello('world')))()
